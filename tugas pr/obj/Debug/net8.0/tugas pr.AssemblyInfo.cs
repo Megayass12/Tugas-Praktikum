@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tugas pr")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+577d75cd06f203683b67b0a449dd50d921e07d8b")]
 [assembly: System.Reflection.AssemblyProductAttribute("tugas pr")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tugas pr")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
